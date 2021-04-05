@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mayank05942
-- 👀 I’m interested in Machine Learning,NLP
+- 👀 I’m interested in Signal Processing,AI and NLP
 - 🌱 I’m currently studying at IIT Gandhinagar
 
 - 📫 email: nautiyal_mayank@iitgn.ac.in
