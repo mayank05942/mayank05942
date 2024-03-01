@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mayank05942
-- 👀 I’m interested in Signal Processing,AI and NLP
-- 🌱 I’m currently studying at IIT Gandhinagar
+- 👋 Hi, I’m Mayank Nautiyal
+- 👀 I’m interested in Bayesian Inference using Machine Learning
+- 🌱 I’m currently a PhD Student in Uppsala University
 
-- 📫 email: nautiyal_mayank@iitgn.ac.in
+- 📫 email: mayank.nautiyal@it.uu.se
 
 <!---
 mayank05942/mayank05942 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
